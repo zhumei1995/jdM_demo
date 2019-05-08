@@ -1,7 +1,7 @@
 /*版心*/
 .jd_container{
-	min-width: 375px;
-	max-width: : 812px;
+    min-width: 320px;
+    max-width: 640px;
 	width: 100%;
 	margin: 0 auto;
 }
